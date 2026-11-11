@@ -3,7 +3,7 @@
 - **Mã đề:**Đề thi 05
 - **Họ tên:** Phạm Quốc Đạt 
 - **Lớp:** CNTT1
-- **Link repository:**
+- **Link repository:** https://github.com/datquoc200017-ops/CNTT1_NMCNTT_ThiHetMon_PhamQuocDat
 - **Hệ điều hành (Windows/macOS):** Windows
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
